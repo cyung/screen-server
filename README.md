@@ -1,0 +1,1 @@
+A server for hosting images and creating URL aliases.
