@@ -16,6 +16,10 @@ A server for hosting images and creating URL aliases.
   * `user` username string
   * `authToken` authorization token
   * `img` image
+* Success response:
+  * `path` URL for image uploaded and hosted on server
+* Error response:
+  * `error` error response
 
 ###Deleting a picture
 * URL: `/img`
